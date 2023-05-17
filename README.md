@@ -1,6 +1,6 @@
 # Ping-Pong
 Game
 Nothing to see here
-Controls: I will add controls later
+Controls: W S
 License: CC
 Made in 2023 by User8700
